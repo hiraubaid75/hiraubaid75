@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hira Barlas</h1>
 <h3 align="center">A passionate Data Analyst from UAE</h3>
 
-- 🔭 I’m currently enroll in **Data Analytix Bootcamp**
+- 🔭 I’m completed **Data Analytix Bootcamp and Data Science & AI**
 
 - 🌱 I’m currently learning **PowerBi, python and AI**
 
